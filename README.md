@@ -1,4 +1,6 @@
 own
 ===
 
-it is my repostiory
+it is my ruby test project
+
+
